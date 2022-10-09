@@ -1,1 +1,1 @@
-# React-Vite-Tailwind_starter_project
+# REACT+VITE+TAILWIND Starter Project
